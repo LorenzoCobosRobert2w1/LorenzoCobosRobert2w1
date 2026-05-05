@@ -1,4 +1,4 @@
-# ¡Hola! Soy Lorenzo <img src="assets/loading.gif" width="40" align="center" />s
+# ¡Hola! Soy Lorenzo <img src="assets/loading.gif" width="40" align="center" />
 
 ### Estudiante de Programación | Full Stack Developer en formación
 
