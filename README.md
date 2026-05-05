@@ -39,9 +39,6 @@ Me apasiona construir soluciones eficientes, minimalistas y funcionales. Actualm
 
 ### Estadísticas de GitHub
 
-
-## ⚙️ Github stats:
-
 <p align="center">
   <a href="https://github.com/LorenzoCobosRobert2w1">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LorenzoCobosRobert2w1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
