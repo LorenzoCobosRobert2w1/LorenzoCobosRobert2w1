@@ -1,4 +1,4 @@
-# ¡Hola! Soy Lorenzo
+# ¡Hola! Soy Lorenzo <img src="https://www.jamiroquai.com/assets/images/loading.gif" width="40" align="center" />
 
 ### Estudiante de Programación | Full Stack Developer en formación
 
