@@ -51,7 +51,7 @@ Me apasiona construir soluciones eficientes, minimalistas y funcionales. Actualm
   </a>
 </p>
 
-S
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoCobosRobert2w1&hide_border=true&background=111827&ring=3b82f6&fire=3b82f6&currStreakLabel=9ca3af&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=9ca3af" alt="Racha de contribuciones" />
