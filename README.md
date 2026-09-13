@@ -6,7 +6,7 @@ Me apasiona construir soluciones eficientes, minimalistas y funcionales. Actualm
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 #### Backend
 <p align="left">
@@ -48,13 +48,13 @@ Me apasiona construir soluciones eficientes, minimalistas y funcionales. Actualm
 
 ---
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 * **Ferretería Pro:** Sistema de gestión e-commerce Full Stack desarrollado con Node.js y MongoDB.
 
 ---
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/LorenzoCobosRobert2w1">
@@ -71,7 +71,7 @@ Me apasiona construir soluciones eficientes, minimalistas y funcionales. Actualm
 
 ---
 
-### 🎯 Sobre mí
+###  Sobre mí
 
 * **Enfoque:** Me gusta la disciplina, tanto en el código como en el entrenamiento físico diario.
 * **Ubicación:** Córdoba, Argentina.
